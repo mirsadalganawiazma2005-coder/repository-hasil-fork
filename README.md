@@ -1,7 +1,7 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
+Nama : Mirsad Alganawi Azma  
+NIU : 522716  
 Sesi : [SESI]  
 Secret String : [SECRET_STRING]
 
