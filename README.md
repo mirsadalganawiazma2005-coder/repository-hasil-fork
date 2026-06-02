@@ -2,8 +2,8 @@
 
 Nama : Mirsad Alganawi Azma  
 NIU : 522716  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Sesi :  
+Secret String : 
 
 ## Checklist Responsi
 
